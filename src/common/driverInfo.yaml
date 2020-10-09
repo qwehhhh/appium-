@@ -1,0 +1,14 @@
+platformName: Android
+platformVersion: 10
+deviceName: 876188d
+skipServerInstallation: true
+skipDeviceInitialization: true
+appPackage: com.codereview.reworldhaiwai
+appActivity: com.locojoy.restart.MainActivity
+unicodeKeyboard: true
+resetKeyboard: true
+noReset: true
+ip: 127.0.0.1
+port: 4723
+
+
